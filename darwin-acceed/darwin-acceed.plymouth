@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Darwin Acceed Plymouth
+Description=A awesome, sophisticated and minimalist Plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/darwin-acceed
+ScriptFile=/usr/share/plymouth/themes/darwin/darwin-acceed.script
