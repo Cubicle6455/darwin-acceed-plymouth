@@ -5,4 +5,6 @@ ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/darwin-acceed
-ScriptFile=/usr/share/plymouth/themes/darwin/darwin-acceed.script
+ScriptFile=/usr/share/plymouth/themes/darwin-acceed/darwin-acceed.script
+
+#Acceed
